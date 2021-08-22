@@ -2,7 +2,7 @@
 
 This readme file is an outcome of the [CENG501 (Spring 2021)](http://kovan.ceng.metu.edu.tr/~sinan/DL/) project for reproducing a paper without an implementation. See [CENG501 (Spring 2021) Project List](https://github.com/sinankalkan/CENG501-Spring2021) for a complete list of all paper reproduction projects.
 
-by @demegire and @mehmetbarutcu
+by [@demegire](https://github.com/demegire) and [@mehmetbarutcu](https://github.com/MehmetBarutcu)
 
 # 1. Introduction
 
@@ -105,7 +105,7 @@ length vector v. The final fixed length vector v is calculated as follows:
 
   ![Concat](https://user-images.githubusercontent.com/84293711/127313944-0d5a2d55-a0e2-4f96-a74f-d92f24ce826c.jpg)
 
-                     (Qian Chen et al., 2017)
+Qian Chen et al., 2017
 
 Where *Va,ave* and *Va,max* are LSTM outputs of premise sentences applied by average   and max operations respectively along hidden size direction, and *Vb,ave* and *Vb,max* are the outputs of hypothesis outputs of same process. 
 
