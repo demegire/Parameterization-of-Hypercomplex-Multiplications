@@ -2,6 +2,8 @@
 
 This readme file is an outcome of the [CENG501 (Spring 2021)](http://kovan.ceng.metu.edu.tr/~sinan/DL/) project for reproducing a paper without an implementation. See [CENG501 (Spring 2021) Project List](https://github.com/sinankalkan/CENG501-Spring2021) for a complete list of all paper reproduction projects.
 
+by @demegire and @mehmetbarutcu
+
 # 1. Introduction
 
 [This paper](https://openreview.net/pdf?id=rcQdycl0zyk) was published as a conference paper at ICLR 2021 by Zhang et al (2021). It was among the 8 Outstanding Papers selected by ICLR organizers out of the 860 papers submitted to the conference.
